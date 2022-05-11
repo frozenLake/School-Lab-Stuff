@@ -1,0 +1,11 @@
+C:\Users\johchae\source\repos\Homework-06\Homework-06\obj\Debug\Homework-06.csproj.AssemblyReference.cache
+C:\Users\johchae\source\repos\Homework-06\Homework-06\obj\Debug\Homework_06.Properties.Resources.resources
+C:\Users\johchae\source\repos\Homework-06\Homework-06\obj\Debug\Homework-06.csproj.GenerateResource.cache
+C:\Users\johchae\source\repos\Homework-06\Homework-06\obj\Debug\Homework-06.csproj.CoreCompileInputs.cache
+C:\Users\johchae\source\repos\Homework-06\Homework-06\bin\Debug\Homework-06.exe.config
+C:\Users\johchae\source\repos\Homework-06\Homework-06\bin\Debug\Homework-06.exe
+C:\Users\johchae\source\repos\Homework-06\Homework-06\bin\Debug\Homework-06.pdb
+C:\Users\johchae\source\repos\Homework-06\Homework-06\obj\Debug\Homework-06.exe
+C:\Users\johchae\source\repos\Homework-06\Homework-06\obj\Debug\Homework-06.pdb
+C:\Users\johchae\source\repos\Homework-06\Homework-06\obj\Debug\Homework_06.FormLogin.resources
+C:\Users\johchae\source\repos\Homework-06\Homework-06\obj\Debug\Homework_06.Form2.resources
