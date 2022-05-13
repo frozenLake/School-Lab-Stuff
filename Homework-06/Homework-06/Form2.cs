@@ -14,6 +14,7 @@ namespace Homework_06
 	public partial class Form2 : Form
 	{
 		SqlConnection conn = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Integrated Security=True;");
+		// TABLE IS STORED IN "(localdb)\MSSQLLocalDB\Databases\System Databases\master\Tables\" in SQL Server Object Explorer
 
 		public Form2()
 		{
@@ -141,7 +142,7 @@ namespace Homework_06
 				"', Course ='" + txt_course.Text +
 				"', Department ='" + txt_department.Text +
 				"', Email ='" + txt_email.Text +
-				"' where RegID ='" + txt_regID.Text + "'";
+				"' where Id ='" + txt_regID.Text + "'";
 			cmd.ExecuteNonQuery();
 			conn.Close();
 			display_data();

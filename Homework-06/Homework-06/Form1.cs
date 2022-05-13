@@ -25,7 +25,8 @@ namespace Homework_06
 
 		private void buttonLogin_Click(object sender, EventArgs e)
 		{
-			SqlConnection con = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Integrated Security=True;");
+			SqlConnection con = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Integrated Security=True;"); 
+			// TABLE IS STORED IN "(localdb)\MSSQLLocalDB\Databases\System Databases\master\Tables\" in SQL Server Object Explorer
 			con.Open();
 
 			SqlCommand sqcmd = new SqlCommand("Select * from Login where username='" + textBoxUsername.Text + "' and password='" + textBoxPassword.Text + "'", con);
